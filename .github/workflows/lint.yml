@@ -1,0 +1,36 @@
+name: Lint README
+
+on:
+  push:
+    paths:
+      - 'README.md'
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for common issues
+        run: |
+          # Check for broken links format
+          if grep -P '\]\((?!http|#|/)[^)]+\)' README.md; then
+            echo "⚠️ Found potentially broken relative links"
+            exit 1
+          fi
+          
+          # Check for trailing whitespace
+          if grep -P ' +$' README.md; then
+            echo "⚠️ Found trailing whitespace"
+            exit 1
+          fi
+          
+          # Check README is not empty
+          if [ ! -s README.md ]; then
+            echo "❌ README.md is empty!"
+            exit 1
+          fi
+          
+          echo "✅ README looks good!"

@@ -1,0 +1,16 @@
+---
+name: 🐛 Report an issue
+about: Report incorrect info, broken link, or outdated content
+title: "[FIX] "
+labels: bug
+assignees: ''
+
+---
+
+## What's wrong?
+
+**Section:**
+**Entry:**
+**Issue:** (broken link / outdated info / incorrect description / other)
+
+## Suggested fix

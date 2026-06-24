@@ -1,0 +1,21 @@
+---
+name: 🛠 Add a tool or resource
+about: Suggest a new addition to the awesome list
+title: "[ADD] "
+labels: enhancement
+assignees: ''
+
+---
+
+## What would you like to add?
+
+**Name:**
+**Category:** (Open-source humanizer / Commercial humanizer / AI detection tool / Research paper / etc.)
+**URL:**
+**Description:**
+
+## Checklist
+- [ ] The tool/resource is relevant to AI text humanization
+- [ ] The tool/resource is actively maintained (for tools)
+- [ ] I have verified the tool/resource works
+- [ ] I have read the Contributing Guidelines
