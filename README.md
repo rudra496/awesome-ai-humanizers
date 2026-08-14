@@ -57,6 +57,7 @@ The AI text humanizer ecosystem is growing fast. This list brings together the b
 | [**Originality.ai**](https://originality.ai/) | Commercial | AI content detector and plagiarism checker for content teams. |
 | [**Winston AI**](https://gowinston.ai/) | Commercial | AI detection with 99.98% claimed accuracy. |
 | [**Copyleaks**](https://copyleaks.com/) | Commercial | AI content detector for education and enterprise. |
+| [**Mydentify AI Watermark Detector**](https://mydentify.com/tools/ai-watermark-detector) | Free Web | Checks text for hidden Unicode watermark signals. |
 | [**OpenAI Classifier**](https://github.com/openai/classifier) | Open Source | OpenAI's original (now deprecated) AI text classifier. |
 | [**GLTR**](https://github.com/HCIILab/GLTR) | Open Source | Statistical detection and visualization of AI-generated text. |
 | [**DetectGPT**](https://github.com/eric-mitchell/detect-gpt) | Open Source | Zero-shot machine-generated text detection method. |
