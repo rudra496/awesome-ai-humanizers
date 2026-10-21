@@ -43,6 +43,7 @@ The AI text humanizer ecosystem is growing fast. This list brings together the b
 | [**StealthWriter**](https://stealthwriter.ai/) | ✅ Limited | AI text humanizer that bypasses major AI detectors with multiple ninja models. |
 | [**QuillBot**](https://quillbot.com/) | ✅ Generous | Multi-purpose writing tool with paraphraser, summarizer, and tone changer. |
 | [**Humbot**](https://humbot.ai/) | ✅ Limited | AI humanizer focused on bypassing GPTZero and Turnitin. |
+| [**HumanPen**](https://humanpen.net) | ✅ Freemium | Document-level AI humanizer for academic writing and reports — web UI, citations-aware rewriting. |
 | [**BypassGPT**](https://bypassgpt.ai/) | ✅ Limited | Claims to humanize AI text while maintaining meaning. |
 | [**Phrasly.ai**](https://phrasly.ai/) | ✅ Limited | AI humanizer with academic, professional, and casual modes. |
 | [**WriteHuman**](https://writehuman.ai/) | ✅ Limited | AI humanizer and AI detector in one platform. |
